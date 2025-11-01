@@ -1,0 +1,80 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 22, 2016, 11:26:01 PM
+    Author     : Administrator
+*/
+
+body {
+  background-image: url("../img/hpbd.jpg");
+  background-size: 100%;
+  background-repeat: repeat-y;
+  font-family: "Fredoka One", cursive;
+  color: white;
+}
+.img_banner_hpbd { 
+  background-image: url("../img/3d28ae425248a05544665dd53400f52e.jpg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: auto;
+}
+h1.heading {
+  font-family: "Pacifico", cursive;
+}
+.jumbotron {
+  opacity: 0.4;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+h4 {
+  font-family: "Nunito Sans", sans-serif;
+}
+.bg-snow-tranparent-normal {
+  opacity: 1;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.bg-snow-tranparent-hidden {
+  opacity: 0.8;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.footer {
+  height: 250px;
+  font-size: 20px;
+  background-color: darkblue;
+  color: skyblue;
+  padding-top: 100px;
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.containeri {
+  position: relative;
+  text-align: center;
+}
+.title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #3A4A3C;
+}
+
+.line {
+    text-align: center;
+    font-size: 32px;
+    color: #4D5B4A;
+    margin: 10px 0;
+}
+
+.line.en {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.sign {
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    color: #C83939;
+    margin-top: 40px;
+}
